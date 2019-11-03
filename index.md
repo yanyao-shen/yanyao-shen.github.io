@@ -82,10 +82,10 @@ My current research goal is to understand and design efficient and robust algori
 
 ---
 
-# Professional Services
+# Services
 
 Reviewer for: NeurIPS, ICML, ICLR, AAAI, JMLR.
- 
+
 <!--
 ## Ruby Gem
 
