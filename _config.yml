@@ -1,11 +1,10 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
-description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+title: Yanyao Shen's Homepage
+tagline: 
+email: shenyanyao@utexas.edu
+description: 
 baseurl: ""
-url: "https://www.csrhymes.com"
+url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
 
@@ -50,7 +49,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: ""
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true

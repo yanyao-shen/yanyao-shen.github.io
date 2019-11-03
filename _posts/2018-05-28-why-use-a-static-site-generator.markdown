@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why use a static site generator"
+title:  "An overview of something"
 date:   2018-05-28 10:50:07
 categories: development
 description: "There are many ways to make a website, but what about static site generators"
@@ -8,8 +8,13 @@ image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
+<script src="//yihui.name/js/math-code.js"></script>
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
-There are many ways to make a website and many different CMS platforms you can use, such as WordPress and Joomla, as well as site builder tools that offer you drag and drop interfaces, but what about static site generators? 
+## Let's write some equations
+`$$a+b$$`
 
 A static site is pretty much what it sounds like, a set of pre generated html pages. Other platforms take what you enter into the CMS and process the information stored in the database, alongside a template or many template partials and dynamically construct the page before serving the html to you in your browser.  
 
