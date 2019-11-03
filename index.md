@@ -47,7 +47,7 @@ I can be reached at: shenyanyao AT utexas DOT edu
 
 #### &nbsp; Machine Learning
 
-* __Solving Sparse Quadratic Problems in Sub-Quadratic Time and Space__. NeurIPS, 2019. [[pdf]]()
+* __Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-Quadratic Time and Space__. NeurIPS, 2019. [[pdf]]()
   * Shuo Yang \*， __Yanyao Shen__ \*, Sujay Sanghavi.
 
 * __Iteratively Least Trimmed Squares for Mixed Linear Regression__. NeurIPS, 2019. [[pdf]]()
