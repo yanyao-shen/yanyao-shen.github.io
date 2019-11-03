@@ -8,6 +8,8 @@ show_sidebar: false
 
 # About
 
+![JetBrains](img/yanyao.jpg)
+
 I am a graduate student in ECE department at University of Texas at Austin. I am fortunate to be advised by Sujay Sanghavi. Before coming to UT, I got my Bachelor degree from Tsinghua University, EE Department in 2015.
 
 My current research goal is to understand and design efficient and robust algorithms with provable guarantees. I am also broadly interested in the theoretical understanding of foundational machine learning problems.
