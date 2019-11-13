@@ -26,10 +26,8 @@ I can be reached at: shenyanyao AT utexas DOT edu
 #### &nbsp; Research Scientist Intern
 
 <p style="text-align:left;">
- &emsp; &emsp; Amazon Search, MIDAS Team   <span style="float:right;"> 2019.08 -- 2019.11</span>
+ &emsp; &emsp; Amazon Search, MIDAS Team  <span style="float:right;"> 2019.08 -- 2019.11</span>
 </p>
-
-
 
 #### &nbsp; Quantitative Research Intern
 <p style="text-align:left;"> &emsp; &emsp; Two Sigma <span style="float:right;"> 2019.05 -- 2019.08</span> </p>
@@ -47,10 +45,10 @@ I can be reached at: shenyanyao AT utexas DOT edu
 
 #### &nbsp; Machine Learning
 
-* __Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-Quadratic Time and Space__. NeurIPS, 2019. [[pdf]]()
-  * Shuo Yang \*， __Yanyao Shen__ \*, Sujay Sanghavi.
+* __Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-Quadratic Time and Space__. NeurIPS, 2019. [[pdf]](https://arxiv.org/pdf/1911.03034.pdf)
+  * Shuo Yang \*, __Yanyao Shen__ \*, Sujay Sanghavi.
 
-* __Iteratively Least Trimmed Squares for Mixed Linear Regression__. NeurIPS, 2019. [[pdf]]()
+* __Iteratively Least Trimmed Squares for Mixed Linear Regression__. NeurIPS, 2019. [[pdf]](https://arxiv.org/pdf/1902.03653.pdf)
   * __Yanyao Shen__, Sujay Sanghavi.
 
 * __Learning with Bad Training Data via Iterative Trimmed Loss Minimization__. ICML, 2019. [[arxiv]](https://arxiv.org/pdf/1810.11874.pdf) [[ICML link]](http://proceedings.mlr.press/v97/shen19e/shen19e.pdf)
@@ -62,10 +60,10 @@ I can be reached at: shenyanyao AT utexas DOT edu
 * __High Dimensional Robust Sparse Regression__. [[arxiv]](https://arxiv.org/pdf/1805.11643.pdf)
   * Liu Liu, __Yanyao Shen__, Tianyang Li, Constantine Caramanis.
 
-* __Dense Information Flow for Neural Machine Translation__. NAACL, 2018. [[arxiv]](https://arxiv.org/pdf/1806.00722.pdf) [[ACL link]](https://www.aclweb.org/anthology/N18-1117/)
+* __Dense Information Flow for Neural Machine Translation__. NAACL, 2018. [[arxiv]](https://arxiv.org/pdf/1806.00722.pdf) [[NAACL link]](https://www.aclweb.org/anthology/N18-1117/)
   * __Yanyao Shen__, Xu Tan, Di He, Tao Qin, Tie-Yan Liu.
 
-* __Deep Active Learning for Named Entity Recognition__. ICLR, 2018. [[arxiv]](https://arxiv.org/pdf/1707.05928.pdf) [[ICLR link]](https://openreview.net/pdf?id=ry018WZAZ) Short version in ACL workshop, 2017. [[link]](http://www.aclweb.org/anthology/W17-2630)
+* __Deep Active Learning for Named Entity Recognition__. ICLR, 2018 [[arxiv]](https://arxiv.org/pdf/1707.05928.pdf) [[ICLR link]](https://openreview.net/pdf?id=ry018WZAZ). Short version in ACL workshop, 2017. [[link]](http://www.aclweb.org/anthology/W17-2630)
   * __Yanyao Shen__, Hyokun Yun, Zachary Lipton, Yakov Kronrod, Animashree Anandkumar.
 
 * __Normalized Spectral Map Synchronization.__ NIPS, 2016.

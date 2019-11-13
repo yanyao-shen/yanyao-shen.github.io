@@ -1,12 +1,12 @@
 # Site Settings
 title: Yanyao Shen's Homepage
-tagline: 
+tagline:
 email: shenyanyao@utexas.edu
-description: 
+description:
 baseurl: ""
 url: ""
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /favicon.png
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -19,7 +19,7 @@ plugins:
   - kramdown
   - rouge
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -60,7 +60,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  products: 
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
