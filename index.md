@@ -5,6 +5,20 @@ layout: page
 #callouts: home_callouts
 show_sidebar: false
 ---
+<html>
+  <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154117020-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154117020-1');
+</script>
+</head>
+</html>
+
 <!--  188eac -->
 # About
 
